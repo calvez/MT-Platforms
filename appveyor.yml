@@ -74,7 +74,8 @@ deploy:
     # GitHub Personal Access Token (https://github.com/settings/tokens/new).
     # You need at least "public_repo" scope for public repo or "repo" scope for private repos.
     # Copy and paste access token into value encryptor at https://ci.appveyor.com/tools/encrypt and replace following "secure" value with encrypted value.
-    secure: CfvlXEnsZxBCuJ1p850Q8mIju3dWBj/6dlL13JC4z0aLCPcJCeozbiu/FrbCnZUq
+    # kenrob: secure: CfvlXEnsZxBCuJ1p850Q8mIju3dWBj/6dlL13JC4z0aLCPcJCeozbiu/FrbCnZUq
+    secure: ul1b9vC+77tWckLQF9yIcoWKNhuLAU1x98ajZuKPHmHoSMHpZwhq8GkenXChcv8A
   description: "MetaTrader v$(MT_VERSION) & MetaEditor v$(ME_VERSION)"
   draft: false
   force_update: false
